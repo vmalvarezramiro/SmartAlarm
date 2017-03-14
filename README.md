@@ -19,4 +19,4 @@
 
 >## Esquema de interconexion
 
-[Esquema de interconexión] ()
+[Esquema de interconexión] (https://github.com/orluzuriaga/SmartAlarm/blob/master/esquema.jpg)
