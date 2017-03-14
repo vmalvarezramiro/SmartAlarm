@@ -7,6 +7,17 @@
 ## OBJETIVOS
 >En este proyecto el objetivo claro es el de realizar un sistema de seguridad mediante las siguientes funcionalidades.
 
->Detección mediante un sensor de movimiento que estará controlado por el módulo arduino este avisara de la intrusión mediante un buzzer, >si esta intrusión no es aceptada con el código de seguridad del propietario en el tiempo establecido el sistema confirmara la detección >como una intrusión real, por lo que informara de dicha intrusión al propietario mediante un mensaje de texto a su teléfono, para esto el >sistema estará conectado con un módulo GPRS/GSM,  Otro de los objetivos es implementar un teclado matricial y un LCD para que el usuario >propietario pueda interactuar son el sistema de seguridad, pudiendo este conectar, desconectar y visualizar los eventos que se han >producido en su sistema de seguridad
+>Detección mediante un sensor de movimiento que estará controlado por el módulo arduino este avisara de la intrusión mediante un buzzer, >si esta intrusión no es aceptada con el código de seguridad del propietario en el tiempo establecido el sistema confirmara la detección >como una intrusión real, por lo que informara de dicha intrusión al propietario mediante un mensaje de texto a su teléfono, para esto el >sistema estará conectado con un módulo GPRS/GSM,  Otro de los objetivos es implementar un teclado matricial y un LCD para que el usuario >propietario pueda interactuar son el sistema de seguridad, pudiendo este conectar, desconectar y visualizar los eventos que se han producido en su sistema de seguridad
 ## LISTADO DE COMPONENTES
 -	MODULO GPRS/GSM
+-	PLACA ARDUINO UNO
+-	SENSOR DE MOVIMIENTO
+-	LCD 1602
+-	TECLADO MATRICIAL
+-	BUZZER
+-	FUENTE ALIMENTACION MODULO GPRS 
+-	POTENCIOMETRO
+
+## Esquema de interconexion
+
+
