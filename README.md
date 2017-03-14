@@ -1,6 +1,6 @@
 ># SmartAlarm
 >## Definicion del problema
->El objetivo de este proyecto será el diseño y desarrollo de un sistema de seguridad mediante el uso de un microcontrolador Arduino que >deberá cumplir una serie de requisitos. Este sistema deberá de interactuar y comunicarse con el cliente a través de un módulo GPRS/GSM.
+>El objetivo de este proyecto será el diseño y desarrollo de un sistema de seguridad mediante el uso de un microcontrolador Arduino que </br> >deberá cumplir una serie de requisitos. Este sistema deberá de interactuar y comunicarse con el cliente a través de un módulo GPRS/GSM.
 >Los pasos marcados para lograr los objetivos serán:
 >## JUSTIFICACION
 >Hemos elegido el realizar este proyecto debido a la variedad de componentes que se mezclan para conseguir el objetivo final, el cual nos >da bastante juego para realizarlo y en caso de proyección el poder implementar más funcionalidades al sistema ya que al ser un sistema de >seguridad en cualquiera de las fases del proyecto podría ser contemplado una nueva especificación en el mismo
