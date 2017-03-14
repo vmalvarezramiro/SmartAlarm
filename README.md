@@ -16,7 +16,7 @@
 > -	BUZZER
 > -	FUENTE ALIMENTACION MODULO GPRS 
 > -	POTENCIOMETRO
-
+>
 >## Esquema de interconexion
-
-[Esquema de interconexión] (https://github.com/orluzuriaga/SmartAlarm/blob/master/esquema.jpg)
+>
+> [Esquema de interconexión] (https://github.com/orluzuriaga/SmartAlarm/blob/master/esquema.jpg)
